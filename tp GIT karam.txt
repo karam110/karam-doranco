@@ -74,5 +74,15 @@ for (var z=10; z<= 20; z++){
 	console.log("voici le resultat :" + a)
 }
 
+// tp GIT 2
+<script>
+
+for (var z=1; z<= 10; z++){
+	
+	console.log("<<hello word!>> :" + z)
+}
+</script>
+
+
 </script>
 </html>
