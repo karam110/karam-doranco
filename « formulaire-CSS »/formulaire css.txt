@@ -1,0 +1,35 @@
+
+<ul>
+          <li>
+            <label for="title_1">
+              <input type="radio" id="title_1" name="title" value="M." >
+              Monsieur
+            </label>
+          </li>
+          <li>
+            <label for="title_2">
+              <input type="radio" id="title_2" name="title" value="Mme.">
+              Madame
+            </label>
+          </li>
+      </ul><head>   <style> #part1{ background-color:green; }  #part2{ background-color:red; } #part3{ background-color:yellow; } #part4{ background-color:blue; } #part5{ background-color:brown
+	 ; }</style> </head> 
+  <div>
+    <label font="arial" id="part1" for="name">votre Nom:</label>
+    <input id="part1"type="text" id="name" name="user_name" />
+
+  <div>
+  <label  id="part2" for="name">votre prenom:</label>
+	<input  id="part2"type="text" id="name" name="user_name" />
+  <div>
+    <label id="part3" for=" votre age">votre age</label>
+    <input  id="part3"type="value" id="value" name="value" />
+  </div>
+  <div>
+    <label id="part5" for="msg">votre ecole:</label>
+   <input id="part5" type="text" id="name" name="user_name" />
+	
+	<div>
+	<button id="part4"> VALIDER </button>
+  </div>
+  
